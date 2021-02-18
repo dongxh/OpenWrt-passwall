@@ -5,3 +5,6 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git freifunk https://github.com/freifunk/openwrt-packages.git
 src-git diy1 https://github.com/xiaorouji/openwrt-passwall.git;main
 src-git helloworld https://github.com/fw876/helloworld
+src-git passwall https://github.com/kenzok8/openwrt-packages
+src-git passwall1 https://github.com/xiaorouji/openwrt-passwall
+src-git passwall2 https://github.com/kenzok8/small
